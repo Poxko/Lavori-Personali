@@ -1,2 +1,5 @@
 # Lavori-Personali
- Lavori creati interamente dall'autore.
+ Progetti creati interamente dall'autore.
+
+# PROGETTI:
+- FormOperazioni.
